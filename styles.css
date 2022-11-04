@@ -1,46 +1,46 @@
 #main {
+  align-items: center;
+  background: #eee;
+  border-radius: 8px;
+  display: block;
   margin: 30px 8px;
   padding: 15px;
-  border-radius: 8px;
-  background: #eee;
-  align-items: center;
-  display: block;
 }
 
 body {
-  font-family: Helvetica;
-  display: block;
   align-items: center;
+  display: block;
+  font-family: Helvetica;
 }
 
 h1, h2, h3 {
-  text-align: center;
   align-items: center;
+  text-align: center;
 }
 
 figure {
-  display: block;
   align-items: center;
-  padding-bottom: .1rem;
   border-radius: 10px;
+  display: block;
+  padding-bottom: .1rem;
 }
 
 #image {
+  align-items: center;
   display: block;
-  width: 60%;
-  max-width: 100%;
   height: auto;
   margin: auto;
+  max-width: 100%;
   padding: 40px; 
-  align-items: center;
+  width: 60%;
 }
 
 #img-div {
-  display: block;
-  background: white;
-  text-align: center;
-  margin: 0 auto;
   align-items: center;
+  background: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
 }
 
 #img-caption {
